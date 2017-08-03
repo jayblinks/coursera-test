@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/jayblinks/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-I love :ice cream: :tea:, and :bread:.
+I love :pizza: :tea:, and :bread:.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
